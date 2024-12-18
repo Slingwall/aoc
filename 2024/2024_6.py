@@ -89,8 +89,6 @@ def part2(data: List[str]) -> Any:
     """
 
 
-
-
     return NotImplemented
 
 
